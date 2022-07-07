@@ -1,7 +1,8 @@
+<div align = center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=250&section=header&text=Chaehyun%20Lim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <h2>🛠 Technology Stack 🛠</h2>
-
 <p>Technology I've used at least once</p>
 
 <div>
@@ -23,9 +24,12 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
 </div>
+  
+</div>
 <br>
 
 <h2>📚 Projects 📚</h2>
+
 <div>
   <ul>
     <li>이루리
@@ -34,14 +38,17 @@
     <li>천-안
     <li>WherEyes
   </ul>
-</div>
+</div> 
 <br>
 
-<h2>⚡ Github stats ⚡</h2>
+<h2>⚡ Github Stats ⚡</h2>
+
+<div align = center>
 
 ![1chaechae1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1chaechae1&theme=graywhite&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chaechae1&layout=compact&theme=graywhite)](https://github.com/1chaechae1/github-readme-stats)
-
+  
+</div>
 
 
 <!--
