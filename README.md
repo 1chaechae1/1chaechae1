@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&height=300&section=header&text=ChaehyunLim%20&fontSize=100&fontcolor=363636)
 
+<h3 align = "center">🛠 Tech Stack 🛠</h3>
+
 [![1chaechae1's github stats](https://github-readme-stats.vercel.app/api?username=1chaechae1)](https://github.com/1chaechae1/1chaechae1)
 
 <!--
