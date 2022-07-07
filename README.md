@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&height=300&section=header&text=ChaehyunLim%20&fontSize=100&fontcolor=363636)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&height=300&section=header&text=ChaehyunLim%20&fontSize=100&fontcolor=363636&fontAlign=70)
 
 <h3 align = "center">🛠 Tech Stack 🛠</h3>
 
