@@ -29,17 +29,16 @@
 
 <br>
 
-<h2>📚 Projects 📚</h2>
-
-  <div>
-    <ul>
-      <li>이루리</li>
-      <li>HCCS(Hoseo COVID-19 Clinic center Service)/li>
-      <li>Superfrog/li>
-      <li>천-안/li>
-      <li>WherEyes/li>
-    </ul>
-  </div> 
+<div align = center>
+  <h2>📚 Projects 📚</h2>
+  <ul>
+    <li>이루리</li>
+    <li>HCCS(Hoseo COVID-19 Clinic center Service)</li>
+    <li>Superfrog</li>
+    <li>천-안</li>
+    <li>WherEyes</li>
+  </ul>
+</div> 
 
 <br>
 
