@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=300&section=header&text=ChaehyunLim%20&fontSize=100&fontcolor=363636)
 
-<div><h2>🛠 Technology Stack 🛠</h2></div>
+<div align =center><h2>🛠 Technology Stack 🛠</h2></div>
 
 <p>Technology I've used at least once</p>
 <div>
@@ -22,8 +22,11 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
 </div>
+<br>
 
-[![1chaechae1's github stats](https://github-readme-stats.vercel.app/api?username=1chaechae1)](https://github.com/1chaechae1/1chaechae1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chaechae1&layout=compact)](https://github.com/1chaechae1/github-readme-stats)
+![1chaechae1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1chaechae1&theme=graywhite&show_icons=true)
+
 
 <!--
 **1chaechae1/1chaechae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
