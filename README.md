@@ -32,11 +32,11 @@
 <div align = center>
   <h2>📚 Projects 📚</h2>
   <ul>
-    <li><a href>이루리</a></li>
+    <li><a href="">이루리</a></li>
     <li><a href="https://github.com/1chaechae1/HCCS">HCCS(Hoseo COVID-19 Clinic center Service)</a></li>
-    <li>Superfrog</li>
-    <li>천-안</li>
-    <li>WherEyes</li>
+    <li><a href="">Superfrog</a></li>
+    <li><a href = "https://github.com/1chaechae1/HCI">천-안</a></li>
+    <li><a href="">WherEyes</a></li>
   </ul>
 </div> 
 
