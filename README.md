@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=300&section=header&text=ChaehyunLim%20&fontSize=100&fontcolor=363636)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=250&section=header&text=Chaehyun%20Lim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<div align =center><h2>🛠 Technology Stack 🛠</h2></div>
+<h2>🛠 Technology Stack 🛠</h2>
 
 <p>Technology I've used at least once</p>
+
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -24,8 +25,23 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chaechae1&layout=compact)](https://github.com/1chaechae1/github-readme-stats)
+<h2>📚 Projects 📚</h2>
+<div>
+  <ul>
+    <li>이루리
+    <li>Clinic
+    <li>Superfrog
+    <li>천-안
+    <li>WherEyes
+  </ul>
+</div>
+<br>
+
+<h2>⚡ Github stats ⚡</h2>
+
 ![1chaechae1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1chaechae1&theme=graywhite&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chaechae1&layout=compact&theme=graywhite)](https://github.com/1chaechae1/github-readme-stats)
+
 
 
 <!--
