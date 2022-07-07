@@ -42,9 +42,8 @@
 
 <br>
 
-<h2>⚡ Github Stats ⚡</h2>
-
 <div align = center>
+<h2>⚡ Github Stats ⚡</h2>
 
 ![1chaechae1's GitHub stats](https://github-readme-stats.vercel.app/api?username=1chaechae1&theme=graywhite&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1chaechae1&layout=compact&theme=graywhite)](https://github.com/1chaechae1/github-readme-stats)
@@ -58,6 +57,7 @@
   
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  
 </div>
 
 <!--
