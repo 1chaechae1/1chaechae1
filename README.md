@@ -55,8 +55,10 @@
   
   <h2>💬  Contacts 💬</h2>
   
+  <div>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </div>
   
 </div>
 
