@@ -33,7 +33,7 @@
   <h2>📚 Projects 📚</h2>
   <ul>
     <li><a href>이루리</a></li>
-    <li><a href>HCCS(Hoseo COVID-19 Clinic center Service)</a></li>
+    <li><a href="https://github.com/1chaechae1/HCCS">HCCS(Hoseo COVID-19 Clinic center Service)</a></li>
     <li>Superfrog</li>
     <li>천-안</li>
     <li>WherEyes</li>
