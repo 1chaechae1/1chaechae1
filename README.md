@@ -33,7 +33,7 @@
 <div>
   <ul>
     <li>이루리
-    <li>Clinic
+    <li>HCCS(Hoseo COVID-19 Clinic center Service)
     <li>Superfrog
     <li>천-안
     <li>WherEyes
