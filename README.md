@@ -32,7 +32,7 @@
 <div align = center>
   <h2>📚 Projects 📚</h2>
   <ul>
-    <li>이루리</li>
+    <li><a href>이루리</a></li>
     <li>HCCS(Hoseo COVID-19 Clinic center Service)</li>
     <li>Superfrog</li>
     <li>천-안</li>
