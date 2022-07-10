@@ -35,7 +35,7 @@
     <li><a href="">다정다감</a></li>
     <li><a href="">이루리</a></li>
     <li><a href="https://github.com/1chaechae1/HCCS">HCCS(Hoseo COVID-19 Clinic center Service)</a></li>
-    <li><a href="">Superfrog</a></li>
+    <li><a href="https://github.com/SuperFr0g">Superfrog</a></li>
     <li><a href = "https://github.com/1chaechae1/HCI">천-안</a></li>
     <li><a href="https://github.com/1chaechae1/WherEyes">WherEyes</a></li>
   </ul>
