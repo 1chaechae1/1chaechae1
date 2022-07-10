@@ -32,7 +32,7 @@
 <div align = center>
   <h2>📚 Projects 📚</h2>
   <ul>
-    <li><a href="">다정다감</a></li>
+    <li><a href="https://github.com/1chaechae1/DajeongDagam">다정다감</a></li>
     <li><a href="">이루리</a></li>
     <li><a href="https://github.com/1chaechae1/HCCS">HCCS(Hoseo COVID-19 Clinic center Service)</a></li>
     <li><a href="https://github.com/SuperFr0g">Superfrog</a></li>
