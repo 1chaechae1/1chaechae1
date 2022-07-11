@@ -32,11 +32,14 @@
 <div align = center>
   <h2>📚 Projects 📚</h2>
   <ul>
+    <h3>기획</h3>
     <li><a href="https://github.com/1chaechae1/DajeongDagam">다정다감(CNN을 활용한 미술치료 어플리케이션)</a></li>
     <li><a href="https://github.com/1chaechae1/ERURI">이루리(K-POP fan letter 어플리케이션)</a></li>
+    <li><a href = "https://github.com/1chaechae1/HCI">천-안</a></li>
+    <br>
+    <h3>개발</h3>
     <li><a href="https://github.com/1chaechae1/HCCS">HCCS(Hoseo COVID-19 Clinic_center Service)</a></li>
     <li><a href="https://github.com/SuperFr0g">Superfrog(주식 커뮤니티 플랫폼)</a></li>
-    <li><a href = "https://github.com/1chaechae1/HCI">천-안</a></li>
     <li><a href="https://github.com/1chaechae1/WherEyes">WherEyes</a></li>
   </ul>
 </div> 
